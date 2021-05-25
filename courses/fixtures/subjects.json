@@ -27,16 +27,8 @@
   "model": "courses.subject",
   "pk": 4,
   "fields": {
-    "title": "Java Programming",
-    "slug": "java-programming"
-  }
-},
-{
-  "model": "courses.subject",
-  "pk": 5,
-  "fields": {
-    "title": "Agricultural Science",
-    "slug": "agricultural-science"
+    "title": "Programming",
+    "slug": "programming"
   }
 }
 ]
